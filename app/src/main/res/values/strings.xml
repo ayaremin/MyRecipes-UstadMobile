@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Recipes</string>
+    <string name="label_favourite_recipes">Favourite Recipes</string>
+    <string name="label_recipe_name">Recipe Name</string>
+    <string name="label_select_ingredients">Select Ingredients</string>
+    <string name="label_description">Description</string>
+    <string name="label_save">Save</string>
+    <string name="label_delete">Delete Recipe</string>
+    <string name="message_recipe_saved">Recipe saved/updated succesfully</string>
+    <string name="label_delete_recipe">Delete</string>
+    <string name="message_delete_recipe">Are you sure to delete this recipe</string>
+    <string name="label_yes">Yes</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_recipe_deleted">Recipe deleted succesfully</string>
+    <string name="label_add_recipe">Add New Recipe</string>
+    <string name="error_fill_all_areas">You must fill all areas to move on</string>
+    <string name="label_ok">OK</string>
+</resources>
